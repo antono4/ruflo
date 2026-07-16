@@ -414,3 +414,7 @@ User Guide section index:
 ## License
 
 MIT - [RuvNet](https://github.com/ruvnet)
+
+---
+
+> **Created by Antono**
